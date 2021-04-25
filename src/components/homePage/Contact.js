@@ -28,7 +28,7 @@ const Contact = () => {
               <span className="chonburi-font green-text">Get</span> in Touch
             </h1>
             <p className="mb-5">
-              For any information regarding my work kindly, contact me though
+              For any information regarding my work kindly, contact me through
               the following phone number or email address.
             </p>
             <h5 className="mb-4">
