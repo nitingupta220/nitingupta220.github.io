@@ -23,7 +23,7 @@
     "react-parallax-tilt": "^1.4.71",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
-    "yarn": "^1.22.10"
+    "yarn": "1.22.19"
   },
   "scripts": {
     "start": "react-scripts start",
