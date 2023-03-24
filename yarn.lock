@@ -1701,9 +1701,7 @@
     "redent" "^3.0.0"
 
 "@testing-library/react@^11.2.2":
-  "integrity" "sha512-jaxm0hwUjv+hzC+UFEywic7buDC9JQ1q3cDsrWVSDAPmLotfA6E6kUHlYm/zOeGCac6g48DR36tFHxl7Zb+N5A=="
-  "resolved" "https://registry.npmjs.org/@testing-library/react/-/react-11.2.2.tgz"
-  "version" "11.2.2"
+  version "11.2.7"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^7.28.1"
