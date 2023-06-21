@@ -1122,9 +1122,7 @@
   "version" "0.9.14"
 
 "@codersrank/summary@^0.9.11":
-  "integrity" "sha512-E0MdseRW2kfV8kuTZrczVsSr+01gSiKY6BVPlpNtJjPCQSlCUUctnXThDupZHNnhGRIqNNplDbdIRzbFaJME1w=="
-  "resolved" "https://registry.npmjs.org/@codersrank/summary/-/summary-0.9.11.tgz"
-  "version" "0.9.11"
+  version "0.9.13"
   dependencies:
     "puppeteer" "^5.4.1"
 
