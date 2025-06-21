@@ -5,7 +5,7 @@ import { Col, Nav, Row } from "react-bootstrap";
 
 // import InstagramIcon from "@material-ui/icons/Instagram";
 import GitHubIcon from "@material-ui/icons/GitHub";
-import CoffeeIcon from '@mui/icons-material/Coffee';
+
 // import FavoriteIcon from "@material-ui/icons/Favorite";
 
 const Footer = () => {
@@ -60,7 +60,7 @@ const Footer = () => {
                 className="nav-item cursor-pointer"
                 target="_blank"
               >
-               <CoffeeIcon />
+               Buy me a coffee
               </Nav.Link>
          
               {/* <Nav.Link
