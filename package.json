@@ -21,7 +21,7 @@
     "react-icons": "^4.2.0",
     "react-intersection-observer": "^8.31.0",
     "react-parallax-tilt": "^1.4.71",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.3",
     "web-vitals": "^0.2.4",
     "yarn": "^1.22.10"
   },
